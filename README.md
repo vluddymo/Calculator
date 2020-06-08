@@ -1,3 +1,3 @@
 # Calculator
 
-## bouncy tow-operands-only calculator
+## bouncy two-operands-only calculator
